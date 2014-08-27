@@ -1,0 +1,13 @@
+body{
+    padding: 15px;
+}
+
+h1{
+    color: deepskyblue;
+    font-family: arial, sans-serif;
+}
+
+#click_button{
+    color: red;
+    background-color: violet;
+}
